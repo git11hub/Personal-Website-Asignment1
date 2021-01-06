@@ -1,15 +1,24 @@
 body {
     margin: 0px;
-    font-family: 'Poppins', sans-serif;
+    /*font-family: 'Poppins', sans-serif;*/
+    
+}
+#margin-reduce-top{
+    margin-top: -50px;
+}
+
+.top-banner{
+    margin-top: 2%;
 }
 h1 {
     font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
 }
 h2{
     font-size: 40px;
 }
 p{
-    color: dimgray
+    color: dimgray    
 }
 .orange-highlight{
     color: orange;
