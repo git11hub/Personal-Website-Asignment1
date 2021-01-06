@@ -1,0 +1,105 @@
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;    
+}
+.half-width img{
+    width: 100%;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, rgb(212, 111, 16), rgb(121, 19, 121));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+
+.three-half-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.single-project{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+    }
+
+.project-area{
+    margin-top: 200px;
+}
+.project-area img{
+    width: 100%;
+}
+
+
+.center-align{
+    text-align: center;
+}
+/* Last Section */
+.last-sec{
+    margin-top: 250px;
+}
+.last-sec img{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: ;
+}
+.last-sec h2{
+    margin-left: 25%;
+    margin-top: -150px;
+    color: white;
+}
+.positioning-button{
+    margin-top: -80px;
+    margin-left: 950px;
+}
+
+
+/* Testing for review section */
+
+.half-rev-width{
+    float: left;
+    width: 30%;
+    margin-left: 13.33%;
+    margin-top: 5%;
+}
+.review-sec img{
+    width: 50%;
+}
+.review-sec h1{
+    text-align: center;
+}
+.review-sec p{
+    text-align: center;
+}
+
+/* footer */
+footer{
+    text-align: center;
+}
